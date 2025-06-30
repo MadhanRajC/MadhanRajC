@@ -2,11 +2,18 @@
 
 I'm a Developer and a passionate learner exploring the world of web development.
 
-- 🚀 I’m currently working on React projects like a Color Picker, To-Do App, and more.
-- 🌱 I’m learning full-stack development (React, Node.js, MongoDB).
-- 💬 Ask me about React, JavaScript, and Front-End tools.
-- 🎯 Goal: Build clean, user-friendly apps and grow as a developer.
-- 🛠 Motto: Consistency beats intensity.
+## 📝 About Me
+ - 💻 Passionate Web Developer focused on building interactive and responsive UIs.
+
+- 🚀 Currently working on Citibank UAE projects using AEM platform.
+
+- 🌱 Learning full-stack development: React, Node.js.
+
+- 💬 I love sharing what I know about JavaScript, React, HTML5, CSS3, JSON and modern UI tools
+
+- 🛠 Motto: Consistency beats intensity
+
+- 🎯 Goal: To create clean, user-friendly apps that make a difference
 
 ## 🔧 Technologies & Tools
 
@@ -30,6 +37,7 @@ I'm a Developer and a passionate learner exploring the world of web development.
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/madhan-raj-23401a22b/)
 
 ## 🗂️ Projects I'm Proud Of
+- 📝 [Quick Notes](https://madhanrajc.github.io/Quick-Notes/) - A dynamic notes taking app using HTML5, CSS3, and JAVASCRTIPT.
 - 🎨 [Color Picker App](#) – A dynamic color tool with hex converter and theme toggle.
 - ✅ [To-Do List App](#) – React-based task manager with localStorage support.
 
