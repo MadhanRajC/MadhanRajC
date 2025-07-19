@@ -37,6 +37,7 @@ I'm a Developer and a passionate learner exploring the world of web development.
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/madhan-raj-23401a22b/)
 
 ## 🗂️ Projects I'm Proud Of
+- 🛒 [Food cart](https://madhanrajc.github.io/Food-Cart-Application) - A dynamic Food Cart Application using React JS.
 - 📝 [Quick Notes](https://madhanrajc.github.io/Quick-Notes/) - A dynamic notes taking app using HTML5, CSS3, and JAVASCRTIPT.
 - 🎨 [Color Picker App](#) – A dynamic color tool with hex converter and theme toggle.
 - ✅ [To-Do List App](#) – React-based task manager with localStorage support.
