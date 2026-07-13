@@ -35,7 +35,7 @@ I'm a Developer and a passionate learner exploring the world of web development.
 
 ## 📫 Connect with Me
 - 📧 Email: madhanraj39211@gmail.com
-- 🌐 Portfolio: [your-portfolio-link.com](https://madhanrajc.github.io/Portfolio/)
+- 🌐 Portfolio: [your-portfolio-link.com](https://my-portfolio-raj07.vercel.app/)
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/madhan-raj-23401a22b/)
 - 🖥 **GitHub:** [github.com/MadhanRajC](https://github.com/MadhanRajC)  
 
